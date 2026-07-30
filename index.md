@@ -87,7 +87,7 @@ fiche CRM sont envoyées uniquement vers **votre propre** agenda via l'API offic
 Calendar. Aucune donnée n'est collectée par le développeur, aucun serveur tiers n'est utilisé.
 
 ➡ **[Politique de confidentialité — CRM Helper — Suivi → Calendrier](https://bavasak.com/privacy-policies/crm-helper)** ·
-**[Page d'accueil de l'application](https://bavasak.com/crm-helper/)**
+**[Page d'accueil de l'application](https://bavasak.com/crm-helper-app.html)**
 
 ---
 
@@ -115,7 +115,7 @@ own** calendar through the official Google Calendar API. The developer collects 
 and no third-party server is involved.
 
 ➡ **[Privacy policy — CRM Helper — Suivi → Calendrier](https://bavasak.com/privacy-policies/crm-helper)** ·
-**[Application home page](https://bavasak.com/crm-helper/)**
+**[Application home page](https://bavasak.com/crm-helper-app.html)**
 
 ---
 
