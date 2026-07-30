@@ -86,7 +86,8 @@ L'extension fonctionne entièrement dans votre navigateur : les informations lue
 fiche CRM sont envoyées uniquement vers **votre propre** agenda via l'API officielle Google
 Calendar. Aucune donnée n'est collectée par le développeur, aucun serveur tiers n'est utilisé.
 
-➡ **[Politique de confidentialité — CRM Helper](https://bavasak.com/privacy-policies/crm-helper)**
+➡ **[Politique de confidentialité — CRM Helper — Suivi → Calendrier](https://bavasak.com/privacy-policies/crm-helper)** ·
+**[Page d'accueil de l'application](https://bavasak.com/crm-helper/)**
 
 ---
 
@@ -113,7 +114,8 @@ Everything runs in your browser: information read from the CRM page is sent only
 own** calendar through the official Google Calendar API. The developer collects no data
 and no third-party server is involved.
 
-➡ **[Privacy policy — CRM Helper](https://bavasak.com/privacy-policies/crm-helper)**
+➡ **[Privacy policy — CRM Helper — Suivi → Calendrier](https://bavasak.com/privacy-policies/crm-helper)** ·
+**[Application home page](https://bavasak.com/crm-helper/)**
 
 ---
 
